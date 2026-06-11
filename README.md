@@ -1,4 +1,4 @@
-# Hi, I'm Giri Balaji 👋
+# Hi, I'm Giri Balaji C 👋
 
 🎓 BCA Student at Dayananda Sagar University
 
