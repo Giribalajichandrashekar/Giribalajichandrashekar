@@ -21,6 +21,7 @@
 ## Currently Learning
 - React.js
 - Data Structures & Algorithms
+- Linux
 
 ## Connect With Me
 📧 giribalajichandrashekar@gmail.com
