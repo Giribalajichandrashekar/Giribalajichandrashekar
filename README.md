@@ -18,6 +18,8 @@
 
 🚀 Style Galaxy
 
+🚀 Student Management System
+
 ## Currently Learning
 - React.js
 - Data Structures & Algorithms
