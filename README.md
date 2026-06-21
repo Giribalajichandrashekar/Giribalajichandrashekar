@@ -2,7 +2,7 @@
 
 🎓 BCA Student at Dayananda Sagar University
 
-💻 Aspiring Software Developer
+💻 Student Developer
 
 ## Skills
 - Python
