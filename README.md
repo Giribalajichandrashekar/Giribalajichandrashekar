@@ -1,4 +1,4 @@
-_![image not found](https://i.redd.it/n8agw6z2smyb1.gif)
+![image not found]([https://i.redd.it/n8agw6z2smyb1.gif](https://cdnb.artstation.com/p/assets/images/images/014/281/887/original/brandon-ellis-cyber.gif?1543324220))
 
 # Hi, I'm Giri Balaji C 👋
 
