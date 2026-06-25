@@ -1,3 +1,5 @@
+_![image not found](https://i.redd.it/n8agw6z2smyb1.gif)
+
 # Hi, I'm Giri Balaji C 👋
 
 🎓 BCA Student at Dayananda Sagar University
