@@ -1,4 +1,4 @@
-_![image not found](<img width="1275" height="506" alt="image" src="https://github.com/user-attachments/assets/5469cc08-375d-4352-9970-0b6211869324" />
+_![image not found](<img width="1275" height="506" alt="u0p3zby0qr601" src="https://github.com/user-attachments/assets/2be3cdad-f9a4-4fe9-981c-cdf67c8c53be" />
 )
 
 # Hi, I'm Giri Balaji C 👋
