@@ -23,9 +23,8 @@ const Giri = {
 
     currentlyLearning: [
         "React",
-        "Node.js",
-        "SQL",
-        "Backend Development"
+        "DataStructures & Algorithms ",
+        "Linux",
     ],
 
     interests: [
@@ -47,7 +46,7 @@ const Giri = {
 ```text
 ██████████░░░░░░░░░░  Learning React
 
-████████░░░░░░░░░░░░  Full Stack Development
+████████░░░░░░░░░░░░  DataStructures & Algorithms
 
 ██████░░░░░░░░░░░░░░  Chrome Extensions
 
@@ -71,7 +70,7 @@ const Giri = {
 | Project | Description |
 |----------|-------------|
 | 📚 Assignment Tracker | Organize assignments with reminders |
-| 🌐 Browser Extensions | Productivity focused Chrome Extensions |
+| 🌐 Browser Extension | Productivity focused Chrome Extensions |
 | 🚀 Upcoming SaaS | Currently Planning... |
 
 ---
@@ -108,56 +107,25 @@ const Giri = {
 
 ---
 
-# 🐍 Contribution Snake
+# 🌐 CONNECT With Me
 
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/Giribalajichandrashekar/Giribalajichandrashekar/output/github-contribution-grid-snake-dark.svg"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Giribalajichandrashekar&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15"/>
-
-</p>
-
----
-
-# 🎯 2026 Goals
-
-- ✅ Master HTML/CSS
-- ✅ Learn JavaScript
-- ✅ Build Full Stack Projects
-- 🔄 Master React
-- 🔄 Learn Backend
-- ⏳ Launch a SaaS Product
-- ⏳ Get a Software Internship
-- ⏳ Start My Own Company
-
----
-
-# ☕ Quote I Live By
-
-> **"Building projects today. Building products tomorrow."**
-
----
-
-# 🌎 Connect With Me
-
-<p align="center">
+<div align="center">
 
 <a href="https://github.com/Giribalajichandrashekar">
-
 <img src="https://skillicons.dev/icons?i=github"/>
-
 </a>
 
-</p>
+<!-- Add your LinkedIn URL -->
+<a href="https://linkedin.com/in/[your-profile](https://www.linkedin.com/in/giri-balaji-c-8764a4311?utm_source=share_via&utm_content=profile&utm_medium=member_android)">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<!-- Replace with your email -->
+<a href="mailto:giribalajichandrashekar@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+</div>
 
 ---
 
@@ -169,6 +137,6 @@ const Giri = {
 
 <p align="center">
 
-⭐ Thanks for visiting my profile!
+⭐ Please support by Staring my repositries!
 
 </p>
