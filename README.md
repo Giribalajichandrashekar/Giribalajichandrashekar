@@ -59,7 +59,7 @@ const Giri = {
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mysql,mongodb,python,c,git,github,vscode&perline=7"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mysql,mongodb,python,c,git,github,vscode,kotlin&perline=7"/>
 
 </p>
 
