@@ -116,7 +116,7 @@ const Giri = {
 </a>
 
 <!-- Add your LinkedIn URL -->
-<a href="https://linkedin.com/in/[your-profile](https://www.linkedin.com/in/giri-balaji-c-8764a4311?utm_source=share_via&utm_content=profile&utm_medium=member_android)">
+<a href="https://linkedin.com/in/[your-profile](https://www.linkedin.com/in/giri-balaji-c-054b5341a/)">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
