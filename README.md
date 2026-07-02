@@ -16,7 +16,7 @@
 
 # 💫 About Me
 
-```
+```javascript
 const Giri = {
 
     education: "Computer Science",
