@@ -78,21 +78,9 @@ const Giri = {
 # 📊 GitHub Analytics
 
 <p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Giribalajichandrashekar&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Giribalajichandrashekar&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Giribalajichandrashekar&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 💻 Languages
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Giribalajichandrashekar&layout=compact&theme=tokyonight&hide_border=true"/>
-
+  <img height="170" src="https://streak-stats.demolab.com?user=Giribalajichandrashekar&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -112,17 +100,15 @@ const Giri = {
 <div align="center">
 
 <a href="https://github.com/Giribalajichandrashekar">
-<img src="https://skillicons.dev/icons?i=github"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<!-- Add your LinkedIn URL -->
-<a href="https://www.linkedin.com/in/giri-balaji-c-054b5341a" target="_blank">
-  <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/>
+<a href="https://www.linkedin.com/in/giri-balaji-c-054b5341a">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<!-- Replace with your email -->
 <a href="mailto:giribalajichandrashekar@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </div>
