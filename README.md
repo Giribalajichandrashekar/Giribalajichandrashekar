@@ -6,6 +6,7 @@
 
 </p>
 
+
 <p align="center">
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Full+Stack+Developer;Building+Real+World+Projects;Future+Startup+Founder;Always+Learning+Something+New;Turning+Ideas+Into+Reality"/>
@@ -64,7 +65,6 @@ const Giri = {
 </p>
 
 ---
-
 # 🏆 Featured Projects
 
 | Project | Description |
