@@ -65,6 +65,7 @@ const Giri = {
 </p>
 
 ---
+<div align="center">
 # 🏆 Featured Projects
 
 | Project | Description |
