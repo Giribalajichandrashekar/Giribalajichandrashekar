@@ -78,9 +78,9 @@ const Giri = {
 # 📊 GitHub Analytics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Giribalajichandrashekar&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Giribalajichandrashekar&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-  <img height="170" src="https://streak-stats.demolab.com?user=Giribalajichandrashekar&theme=tokyonight&hide_border=true"/>
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Giribalajichandrashekar&theme=tokyonight"/>
 </p>
 
 ---
